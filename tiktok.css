@@ -1,0 +1,136 @@
+@charset "UTF-8";
+
+.header {
+	width: 100%;
+	height: 60px;
+	display: flex;
+	align-items: center;
+	flex-direction: row;
+	justify-content: space-between;
+}
+
+.tiktokpng {
+	height: 70px;
+	width: 280px;
+}
+
+.left {
+	margin-left: 15px;
+	margin-top: 70px;
+	
+}
+
+.middle {
+	color: black;
+	font-size: 45px;
+	font-family: Arial;
+	align-items: center;
+	text-align: center;
+	margin-top: 100px;
+	font-weight: bold;
+}
+
+.right {
+	margin-right: 15px;
+	color: #16182360;
+	font-size: 20px;
+	font-family: Arial;
+	font-weight: bold;
+	margin-top: 70px;
+}
+
+.right:hover {
+	text-decoration: underline;
+	cursor: pointer;
+}
+
+.body {
+	font-family: Arial;
+	color: black;
+	height: 100px;
+	width: 100%;
+	margin-top: 60px;
+	display: flex;
+	justify-content: center;
+}
+
+.tiktokform {
+	height: 300px;
+	width: 900px;
+	margin-top: 100px;
+}
+
+.Emailor {
+	font-weight: bold;
+	font-size: 26px;
+}
+
+.input {
+	height: 120px;
+	width: 860px;
+	margin-top: 20px;
+	background-color: #ebebeb;
+	padding-left: 35px;
+	border: 1px solid #bebebe;
+	border-radius: 10px;
+	font-size: 27px;
+}
+
+.input:hover {
+	background-color: #e7e7e2;
+}
+
+.passwort {
+	font-size: 20px;
+	margin-top: 15px;
+	font-weight: bold;
+}
+
+.passwort:hover {
+	text-decoration: underline;
+	cursor: pointer;
+}
+
+.button {
+	background-color: #ebebeb;
+	color: rgb(199, 188, 188);
+	height: 120px;
+	width: 898px;
+	margin-top: 20px;
+	border: none;
+	border-radius: 10px;
+	font-size: 26px;
+	font-weight: bold;
+}
+
+.button:hover{
+	cursor: not-allowed;
+	
+}
+p:hover {
+	cursor: pointer;
+}
+
+.checkboox {
+	height: 35x;
+	width: 35px;
+	margin-top: 20px;
+	vertical-align: middle;
+	
+
+}
+
+.robo {
+	font-size: 25px;
+	font-weight: bold;
+	display: inline;
+	margin-top: 45px;
+	padding-left: 10px;
+	
+	
+}
+
+.divrobo {
+	display: flex;
+	vertical-align: middle;
+}
